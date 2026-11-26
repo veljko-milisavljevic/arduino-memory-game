@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="666" viewBox="0 0 880 666" font-family="Arial, Helvetica, sans-serif">
+<title>Arduino Memory Game wiring diagram</title>
+<rect width="880" height="666" fill="#ffffff"/>
+<g stroke="#222" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="90" y="70" width="170" height="526" rx="10" fill="#e8f1f8" stroke="#1f5f8b"/>
+<line x1="560" y1="110" x2="560" y2="566"/>
+<line x1="260" y1="566" x2="560" y2="566"/>
+<line x1="90" y1="528" x2="62" y2="528"/>
+<line x1="54" y1="520" x2="70" y2="536"/>
+<line x1="54" y1="536" x2="70" y2="520"/>
+<line x1="260" y1="110" x2="387" y2="110"/>
+<line x1="453" y1="110" x2="560" y2="110"/>
+<circle cx="390" cy="110" r="3" fill="#222"/><circle cx="450" cy="110" r="3" fill="#222"/>
+<line x1="384" y1="101" x2="456" y2="101"/>
+<line x1="420" y1="101" x2="420" y2="93"/>
+<line x1="411" y1="93" x2="429" y2="93"/>
+<circle cx="560" cy="110" r="3.5" fill="#222"/>
+<line x1="260" y1="148" x2="387" y2="148"/>
+<line x1="453" y1="148" x2="560" y2="148"/>
+<circle cx="390" cy="148" r="3" fill="#222"/><circle cx="450" cy="148" r="3" fill="#222"/>
+<line x1="384" y1="139" x2="456" y2="139"/>
+<line x1="420" y1="139" x2="420" y2="131"/>
+<line x1="411" y1="131" x2="429" y2="131"/>
+<circle cx="560" cy="148" r="3.5" fill="#222"/>
+<line x1="260" y1="186" x2="387" y2="186"/>
+<line x1="453" y1="186" x2="560" y2="186"/>
+<circle cx="390" cy="186" r="3" fill="#222"/><circle cx="450" cy="186" r="3" fill="#222"/>
+<line x1="384" y1="177" x2="456" y2="177"/>
+<line x1="420" y1="177" x2="420" y2="169"/>
+<line x1="411" y1="169" x2="429" y2="169"/>
+<circle cx="560" cy="186" r="3.5" fill="#222"/>
+<line x1="260" y1="224" x2="387" y2="224"/>
+<line x1="453" y1="224" x2="560" y2="224"/>
+<circle cx="390" cy="224" r="3" fill="#222"/><circle cx="450" cy="224" r="3" fill="#222"/>
+<line x1="384" y1="215" x2="456" y2="215"/>
+<line x1="420" y1="215" x2="420" y2="207"/>
+<line x1="411" y1="207" x2="429" y2="207"/>
+<circle cx="560" cy="224" r="3.5" fill="#222"/>
+<line x1="260" y1="262" x2="320" y2="262"/>
+<rect x="320" y="255" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="262" x2="410" y2="262"/>
+<path d="M410 251 L410 273 L432 262 Z" fill="#2e9e44"/>
+<line x1="432" y1="251" x2="432" y2="273"/>
+<line x1="432" y1="262" x2="560" y2="262"/>
+<line x1="418" y1="249" x2="426" y2="241" stroke-width="1.5"/>
+<path d="M426 241 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="249" x2="434" y2="241" stroke-width="1.5"/>
+<path d="M434 241 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="262" r="3.5" fill="#222"/>
+<line x1="260" y1="300" x2="320" y2="300"/>
+<rect x="320" y="293" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="300" x2="410" y2="300"/>
+<path d="M410 289 L410 311 L432 300 Z" fill="#e5b800"/>
+<line x1="432" y1="289" x2="432" y2="311"/>
+<line x1="432" y1="300" x2="560" y2="300"/>
+<line x1="418" y1="287" x2="426" y2="279" stroke-width="1.5"/>
+<path d="M426 279 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="287" x2="434" y2="279" stroke-width="1.5"/>
+<path d="M434 279 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="300" r="3.5" fill="#222"/>
+<line x1="260" y1="338" x2="320" y2="338"/>
+<rect x="320" y="331" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="338" x2="410" y2="338"/>
+<path d="M410 327 L410 349 L432 338 Z" fill="#d63b3b"/>
+<line x1="432" y1="327" x2="432" y2="349"/>
+<line x1="432" y1="338" x2="560" y2="338"/>
+<line x1="418" y1="325" x2="426" y2="317" stroke-width="1.5"/>
+<path d="M426 317 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="325" x2="434" y2="317" stroke-width="1.5"/>
+<path d="M434 317 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="338" r="3.5" fill="#222"/>
+<line x1="260" y1="376" x2="408" y2="376"/>
+<circle cx="420" cy="376" r="12" fill="#fff"/>
+<line x1="432" y1="376" x2="560" y2="376"/>
+<circle cx="560" cy="376" r="3.5" fill="#222"/>
+<line x1="260" y1="414" x2="320" y2="414"/>
+<rect x="320" y="407" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="414" x2="410" y2="414"/>
+<path d="M410 403 L410 425 L432 414 Z" fill="#3d7fd9"/>
+<line x1="432" y1="403" x2="432" y2="425"/>
+<line x1="432" y1="414" x2="560" y2="414"/>
+<line x1="418" y1="401" x2="426" y2="393" stroke-width="1.5"/>
+<path d="M426 393 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="401" x2="434" y2="393" stroke-width="1.5"/>
+<path d="M434 393 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="414" r="3.5" fill="#222"/>
+<line x1="260" y1="452" x2="320" y2="452"/>
+<rect x="320" y="445" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="452" x2="410" y2="452"/>
+<path d="M410 441 L410 463 L432 452 Z" fill="#3d7fd9"/>
+<line x1="432" y1="441" x2="432" y2="463"/>
+<line x1="432" y1="452" x2="560" y2="452"/>
+<line x1="418" y1="439" x2="426" y2="431" stroke-width="1.5"/>
+<path d="M426 431 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="439" x2="434" y2="431" stroke-width="1.5"/>
+<path d="M434 431 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="452" r="3.5" fill="#222"/>
+<line x1="260" y1="490" x2="320" y2="490"/>
+<rect x="320" y="483" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="490" x2="410" y2="490"/>
+<path d="M410 479 L410 501 L432 490 Z" fill="#3d7fd9"/>
+<line x1="432" y1="479" x2="432" y2="501"/>
+<line x1="432" y1="490" x2="560" y2="490"/>
+<line x1="418" y1="477" x2="426" y2="469" stroke-width="1.5"/>
+<path d="M426 469 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="477" x2="434" y2="469" stroke-width="1.5"/>
+<path d="M434 469 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="490" r="3.5" fill="#222"/>
+<line x1="260" y1="528" x2="320" y2="528"/>
+<rect x="320" y="521" width="44" height="14" fill="#fff"/>
+<line x1="364" y1="528" x2="410" y2="528"/>
+<path d="M410 517 L410 539 L432 528 Z" fill="#3d7fd9"/>
+<line x1="432" y1="517" x2="432" y2="539"/>
+<line x1="432" y1="528" x2="560" y2="528"/>
+<line x1="418" y1="515" x2="426" y2="507" stroke-width="1.5"/>
+<path d="M426 507 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<line x1="426" y1="515" x2="434" y2="507" stroke-width="1.5"/>
+<path d="M434 507 l-5 1 l4 4 Z" fill="#222" stroke-width="1"/>
+<circle cx="560" cy="528" r="3.5" fill="#222"/>
+<circle cx="560" cy="566" r="3.5" fill="#222"/>
+</g>
+<g font-size="14" fill="#222">
+<text x="440.0" y="38" font-size="20" font-weight="bold" text-anchor="middle">Arduino Memory Game: wiring</text>
+<text x="0" y="0" transform="translate(140 333) rotate(-90)" font-size="20" font-weight="bold" text-anchor="middle" fill="#1f5f8b">Arduino Uno</text>
+<text x="0" y="0" transform="translate(166 333) rotate(-90)" font-size="13" text-anchor="middle" fill="#1f5f8b">ATmega328P, 16 MHz</text>
+<text x="248" y="115" text-anchor="end" font-weight="bold">D2</text>
+<text x="580" y="115">Button 1 (INT0)</text>
+<text x="248" y="153" text-anchor="end" font-weight="bold">D3</text>
+<text x="580" y="153">Button 2 (INT1)</text>
+<text x="248" y="191" text-anchor="end" font-weight="bold">D4</text>
+<text x="580" y="191">Button 3 (PCINT20)</text>
+<text x="248" y="229" text-anchor="end" font-weight="bold">D5</text>
+<text x="580" y="229">Button 4 (PCINT21)</text>
+<text x="248" y="267" text-anchor="end" font-weight="bold">D6</text>
+<text x="580" y="267">Green LED (success)</text>
+<text x="342" y="250" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="305" text-anchor="end" font-weight="bold">D7</text>
+<text x="580" y="305">Yellow LED (input)</text>
+<text x="342" y="288" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="343" text-anchor="end" font-weight="bold">D8</text>
+<text x="580" y="343">Red LED (mistake)</text>
+<text x="342" y="326" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="381" text-anchor="end" font-weight="bold">D9</text>
+<text x="580" y="381">Passive buzzer</text>
+<text x="420" y="380" font-size="10" text-anchor="middle" font-weight="bold">BZ</text>
+<text x="248" y="419" text-anchor="end" font-weight="bold">D10</text>
+<text x="580" y="419">LED 1</text>
+<text x="342" y="402" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="457" text-anchor="end" font-weight="bold">D11</text>
+<text x="580" y="457">LED 2</text>
+<text x="342" y="440" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="495" text-anchor="end" font-weight="bold">D12</text>
+<text x="580" y="495">LED 3</text>
+<text x="342" y="478" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="533" text-anchor="end" font-weight="bold">D13</text>
+<text x="580" y="533">LED 4</text>
+<text x="342" y="516" font-size="11" text-anchor="middle" fill="#555">220 Ω</text>
+<text x="248" y="571" text-anchor="end" font-weight="bold">GND</text>
+<text x="580" y="571" font-weight="bold">Common ground</text>
+<text x="102" y="533" font-weight="bold">A0</text>
+<text x="54" y="553" font-size="11" text-anchor="middle" fill="#555">n/c</text>
+<text x="40" y="634" font-size="13" fill="#444">Buttons use the internal pull-up resistors and connect the pin to GND when pressed.</text>
+<text x="40" y="652" font-size="13" fill="#444">Each LED has a 220 Ω series resistor. A0 is left floating to seed the random generator.</text>
+</g></svg>

@@ -37,6 +37,10 @@ stateDiagram-v2
 
 ## Wiring
 
+![Wiring diagram: buttons on D2-D5, status LEDs on D6-D8, buzzer on D9, sequence LEDs on D10-D13](docs/wiring.svg)
+
+The diagram is drawn from the pin definitions in the sketch, not traced from the original build.
+
 | Component | Pin | Connection |
 |---|---|---|
 | Buttons 1-4 | 2, 3, 4, 5 | To GND (internal pull-ups) |
