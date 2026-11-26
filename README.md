@@ -65,7 +65,6 @@ Leave A0 unconnected. It is read to seed the random generator.
 
 ## Known issues
 
-- The sequence is predictable (1, 2, 3, 4, 1, ...), because the `random()` calls are commented out.
 - The sequence length is not checked against the 64-element array.
 - Button presses during playback are counted once input starts.
 - The red LED keeps blinking after a mistake has been corrected.

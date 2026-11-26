@@ -143,8 +143,7 @@ void loop() {
     case INIT:
 
       for (int i = 0; i < seqLength; i++)
-        //sequence[i] = random(1, 5);
-          sequence[i] = (i+1) % 5;
+        sequence[i] = random(1, 5);
 
       userIndex = 0;
       attempts = 0;
@@ -219,8 +218,7 @@ void loop() {
         greenTime = 0;
         digitalWrite(LED_GREEN, LOW);
 
-        //sequence[seqLength] = random(1, 5);
-        sequence[seqLength] = seqLength % 4 + 1;
+        sequence[seqLength] = random(1, 5);
         seqLength++;
 
         state = SHOW_SEQUENCE;
